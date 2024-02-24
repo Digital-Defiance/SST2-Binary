@@ -5,3 +5,6 @@ https://paperswithcode.com/sota/sentiment-analysis-on-sst-2-binary
 
 https://nlp.stanford.edu/sentiment/trainDevTestTrees_PTB.zip
 
+
+https://nlp.stanford.edu/sentiment/
+
